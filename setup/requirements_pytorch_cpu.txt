@@ -1,8 +1,0 @@
---extra-index-url https://download.pytorch.org/whl/cpu  # required for linux since otherwise the default is the GPU version
-torch==1.13.1  # for Windows and Mac this installs the CPU-only version (no GPU)
-torchvision==0.14.1  # needed to the pytorch-tensroboard tutorial, for downloading fashion-mnist
-tensorboard==2.11.0
-matplotlib==3.6.2
-numpy==1.23.5
-ipykernel==6.19.2  # needed to run jupyter notebooks 
-nbconvert==7.2.7  # needed for converting ipynb to other formats such as python, html and pdf 

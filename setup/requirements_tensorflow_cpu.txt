@@ -1,7 +1,0 @@
-tensorflow-cpu==2.11.0
-tensorboard==2.11.0
-matplotlib==3.6.2
-numpy==1.23.5
-ipykernel==6.19.2  # required for running jupyter notebooks
-nbconvert==7.2.7  # required for converting ipynb to other formats such as python, html and pdf
-pandas==1.5.2  # required for e.g. the rnn notebook
